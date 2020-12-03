@@ -1,0 +1,10 @@
+a = WOFPlayer('mayo')
+b = a.addMoney(500)
+print(b)
+c = a.addPrize('p')
+print(c)
+d  = a.goBankrupt()
+print(d)
+
+
+

@@ -1,0 +1,46 @@
+import requests_with_caching :-----------------
+
+
+
+    Your code will include a statement to import the module, import requests_with_caching.
+
+    Instead of invoking requests.get(), you’ll invoke requests_with_caching.get().
+
+==============================================================================================================================
+
+There are a couple of other optional parameters for the function requests_with_caching.get().
+
+    cache_file– it’s value should be a string specifying the name of the file containing the permanent cache. If you don’t specify anything, the default value is “permanent_cache.txt”. For the datamuse API, we’ve provide a cache in a file called datamuse_cache.txt. It just contains the saved response to the query for “https://api.datamuse.com/words?rel_rhy=funny”.
+
+    private_keys_to_ignore– its value should be a list of strings. These are keys from the parameters dictionary that should be ignored when deciding whether the current request matches a previous request. The main purpose of this is that it allows us to return a result from the cache for some REST APIs that would otherwise require you to provide an API key in order to make a request. By default, it is set to [“api_key”], which is a query parameter used with the flickr API. You should not need to set this optional parameter.
+
+===================================================================================================================================
+
+res = requests_with_caching.get("https://api.datamuse.com/words?rel_rhy=happy", permanent_cache_file="datamuse_cache.txt")
+
+===================================================================================================================================
+
+https://www.py4e.com/code3/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
