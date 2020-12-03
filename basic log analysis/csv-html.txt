@@ -1,0 +1,8 @@
+sudo python3 csv_to_html.py user_statistics.csv /var/www/html/user.html
+
+sudo python3 csv_to_html.py error_message.csv /var/www/html/error.html
+
+
+ sudo chmod  o+w /var/www/html
+ 
+ sudo chmod +x csv_to_html.p                
