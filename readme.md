@@ -6,7 +6,7 @@ All my little python projects and will update,when i work to create new projects
 
 
 ### 1.Automating store data update and upload file and data
-In this project i have a script for a store yo upload images to server and with that upload image details and description. After done then email report to supplier and then do system checks.
+In this project i have a script for a store that upload images to server and with that upload image details and description. After done then email report to supplier and then do system checks.
 
 ### 2.Basic log analysis
 In this just a script for errors log analysis based on given error.
@@ -36,4 +36,4 @@ Created a basic lowest interaction ssh honeypot.
 In this creating a contact sheet with different color of same text image.(created while learning PIL)
 
 ### 11.The hearts of the cards game
-In this i am using pygame to create a guessing game that what will next card type from yu-gi-oh series.
+In this i am using pygame to create a guessing game. In this game user have to guess what will next card type, all cards from yu-gi-oh series.
