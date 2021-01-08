@@ -36,4 +36,4 @@ Created a basic lowest interaction ssh honeypot.
 In this creating a contact sheet with different color of same text image.(created while learning PIL)
 
 ### 11.The hearts of the cards game
-In this i am using pygame to create a guessing game. In this game user have to guess what will next card type, all cards from yu-gi-oh series.
+In this i am using pygame to create a guessing game. In this game user have to guess what will be next card type, all cards from yu-gi-oh series.
