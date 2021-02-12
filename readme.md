@@ -37,3 +37,12 @@ In this creating a contact sheet with different color of same text image.(create
 
 ### 11.The hearts of the cards game
 In this i am using pygame to create a guessing game. In this game user have to guess what will be next card type, all cards from yu-gi-oh series.
+
+### 12.Rock paper scissors game
+Well i can make it doing normal programming but i think game with ui gonna be more interesting, so using pygame i have created this..
+
+### 13.Keylogger *
+
+### 14.web scrapping *
+
+* working
