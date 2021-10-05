@@ -1,0 +1,6 @@
+#ignore creds file
+*.json
+
+*.json
+
+alert_email.py
